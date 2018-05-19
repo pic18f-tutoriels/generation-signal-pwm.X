@@ -29,8 +29,8 @@ char sinus[] =
      2,  1,  2,  4,  7, 11, 16
 };
 
-//#define VERSION1
-#define VERSION2
+#define VERSION1
+// #define VERSION2
 
 #ifdef VERSION2
 
